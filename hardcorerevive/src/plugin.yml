@@ -3,7 +3,7 @@ version: 1.0.0
 main: mr.marl.HardcoreNecromancy.HardcoreNecromancy
 description: A plugin that lets players get revived in hardcore mode.
 author: MrMarL
-api-version: 1.16
+api-version: 1.13
 
 commands:
   necro:
