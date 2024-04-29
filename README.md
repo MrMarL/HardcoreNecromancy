@@ -1,35 +1,8 @@
-How to Install
 
-1. Download from [Spigot](https://www.spigotmc.org/resources/hardcore-revive.90274/)
-2. Open your server's plugins folder.
-3. Drag the jar into that folder.
-4. Start/Restart your server.
+# HardcoreNecromancy
 
+For a hardcore server. 
 
-It's just a little plugin I coded for coding practice.
+If a player holding a totem in both hands writes the command /necro [nickname of the dead player], then both totems are used, after which the dead player is resurrected right in front of the resurrector, totem effects are applied to both players, and hunger for 5 minutes, nausea for 10 seconds, weakness and fatigue for 30 seconds are also imposed on the resurrected one. 
 
-It lets you revive other players in spectator mode (aka when they died in hardcore).
-You have to be in any gamemode except Spectator to revive someone.
-
-But it comes at a cost.
-(Alternatively if you toggle with /revivetoggle method you will have to burn a totem to revive someone.)
-
-The price for a revive can be set with
-/reviveprice
-It will take the Item and amount in your hand and set it as the price.
-(The default price is 1 Nether Star.)
-
-/ritualprice
-It will take the 1 of the Item in your hand and set it as the price.
-(The default is 1 Totem of Undying.)
-
-/revive player
-Let's you revive players and it will automatically remove the item price from your inventory.
-
-/revivetoggle method/spawn/ritualname
-method: Lets you toggle between a ritual to revive or the default command.
-spawn: Lets you toggle between reviving at world spawn or at the most recent death spot
-ritualname: Lets you toggle between allowing people to choose who to revive by renaming the item to that person's ign (Case-Sensitive) or reviving a random person using the ritual
-
-For any bugs contact me here or in Discord (Asumji#2143).
-I recommend contacting me through discord since I am not really active here.
+After using the command, both players (both the resurrector and the resurrected) permanently lose 3 health hearts, the team cannot be used with 4 health hearts, while in observer mode, and on live players.
