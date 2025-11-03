@@ -1,0 +1,7 @@
+# HardcoreNecromancy Configuration
+# Amount of hearts to remove from players during revival (2 hearts = 1 health unit)
+hearts-to-remove: 6
+
+# Whether to remove hearts from the reviver (person performing the revival)
+# If false, hearts will only be removed from the revived player
+remove-hearts-from-reviver: true

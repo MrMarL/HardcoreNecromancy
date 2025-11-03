@@ -1,0 +1,12 @@
+# HardcoreNecromancy Messages
+# Use '&' for color codes and %variable% for placeholders
+
+console-cannot-revive: "&cYou have to be a Player to revive someone."
+cannot-revive-while-dead: "&cYou can't revive people when you're dead."
+player-not-found: "&cCouldn't find the player %player%"
+cannot-revive-self: "&cYou can't revive yourself."
+player-not-dead: "&cThis player isn't dead."
+need-totems-in-both-hands: "&cYou must hold totems in both hands"
+need-more-health: "&cYou need to have 4 health units."
+revive-success: "&aYou've revived %player%"
+revived-by: "&aYou've been revived by %reviver%"
